@@ -64,7 +64,10 @@ picture of how to change the game for the better.
 ### Results
 
 Looking at the results from the anonymous servey a few interesting 
-points were raised
+points were raised, one being about the users understanding of the
+user interface and how it wasn't the easiest to figure out the 
+information it was trying to convey.
+![Data_1](data1.png)
 
 ### Recommendations
 
