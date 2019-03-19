@@ -1,3 +1,5 @@
+[DC](DC.png)
+
 ```markdown
 Are you ready for some extreme pun-ishment? Well then try out team VDs 
 newest game The Gobfather. This game has everything you could ever want 
@@ -31,6 +33,13 @@ people have made it to the end and survived.
 ```
 
 Follow link for download: [The Gobfather](https://sparky439.itch.io/the-gobfather).
+
+### Summary
+
+The Gobfather is a stylised top-down bullet hell shooter where the 
+character fights their way through an Italian restaurant run by the
+mafia. It uses procedural generation to randomize the layout of the 
+dungeons
 
 ### Methodology
 
