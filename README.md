@@ -39,7 +39,11 @@ Follow link for download: [The Gobfather](https://sparky439.itch.io/the-gobfathe
 The Gobfather is a stylised top-down bullet hell shooter where the 
 character fights their way through an Italian restaurant run by the
 mafia. It uses procedural generation to randomize the layout of the 
-dungeons.
+dungeons, and there is a big emphasis on the random nature of the
+gun drops and how you can get more powerful weapons as you progress
+through the game. I used a combination of both quantitative and 
+qualitative forms of data gathering to try and get a picture of what
+people like and don't like about different features of the game.
 
 ### Methodology
 
@@ -62,5 +66,5 @@ picture of how to change the game for the better.
 Looking at the results from the anonymous servey a few interesting points were raised
 
 ```
-Written by: Nathan-David Coplestone 18/03/2019
+Written by: Nathan-David Coplestone Last Updated: 18/03/2019
 ```
