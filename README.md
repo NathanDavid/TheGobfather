@@ -1,4 +1,4 @@
-[DC](DC.png)
+![DC](DC.png)
 
 ```markdown
 Are you ready for some extreme pun-ishment? Well then try out team VDs 
