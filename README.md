@@ -73,13 +73,21 @@ majority of the answers being either a 1 or a 2. This gives a clear
 message that changes need to be made to the design of the UI to make
 it easier to understand.
 
+Another
+![Data_2](data2.png)
+m
+
+A third
+![Data_3](data3.png)
+m
+
 ### Recommendations
 
 My recommendations based on the results of the data that I 
 gathered are:
 - Change the UI to make it more coherent.
--
--
+- Change the way the levels progress to give a better sense of progression.
+- Increase the number of music tracks to make them feel more relevant to the users actions.
 
 ### To Conclude
 
