@@ -68,6 +68,10 @@ points were raised, one being about the users understanding of the
 user interface and how it wasn't the easiest to figure out the 
 information it was trying to convey.
 ![Data_1](data1.png)
+As the graph above shows the highest number given was a 3 with the
+majority of the answers being either a 1 or a 2. This gives a clear
+message that changes need to be made to the design of the UI to make
+it easier to understand.
 
 ### Recommendations
 
