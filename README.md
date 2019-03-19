@@ -77,7 +77,7 @@ it easier to understand.
 
 My recommendations based on the results of the data that I 
 gathered are:
--
+- Change the UI to make it more coherent.
 -
 -
 
