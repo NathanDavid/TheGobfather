@@ -32,11 +32,11 @@ people have made it to the end and survived.
 
 Follow link for download: [The Gobfather](https://sparky439.itch.io/the-gobfather).
 
-### Jekyll Themes
+### Methodology
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NathanDavid/TheGobfather/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+The methods that i used for gathering my data were:
 
-### Support or Contact
+### Results
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
