@@ -63,7 +63,21 @@ picture of how to change the game for the better.
 
 ### Results
 
-Looking at the results from the anonymous servey a few interesting points were raised
+Looking at the results from the anonymous servey a few interesting 
+points were raised
+
+### Recommendations
+
+My recommendations based on the results of the data that I 
+gathered are:
+-
+-
+-
+
+### To Conclude
+
+While a lot of people liked --- a lot of people thought that --- 
+was not that good and could be improved
 
 ```
 Written by: Nathan-David Coplestone Last Updated: 18/03/2019
