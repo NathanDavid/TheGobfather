@@ -76,21 +76,27 @@ visible names to the different status bars on screen.
 
 Another point that I felt needed looking at is the how the player feels
 when progressing through the different levels of the game but as the graph
-below shows not all of the players were satisfied with how the progression
-of the levels in the game is handled. One way to remedy this is to stucture
+below show not all of the players were satisfied with how the progression
+of the levels in the game is handled. One way to remedy this is to structure
 the game to have more focused goals for the player to try and achieve.
 ![Data_2](data2.png)
 
 A third point that stood out to me is the fact that some of the players
-felt that the music that they heard from the game wasnt always relevent
-to their current possition as the graph below shows, this could possibly
+felt that the music that they heard from the game wasn't always relevant
+to their current position as the graph below shows, this could possibly
 be fixed by adding more tracks to the game to change dynamically when the
 player enters different scenarios.
 ![Data_3](data3.png)
 
 When looking at the answers given to me by my course mates one of the 
-most popular catagories that was critiqued was the lack of instuction
-and the confusing elements of the UI.
+most popular categories that was critiqued was the lack of instruction
+and the confusing elements of the UI. This is somewhat supported by
+the anonymous survey further proving to me that the UI should go
+through a redesign to make it easier to understand. It would also be 
+good to try and find an organic way to feed the player more detailed
+amounts of information about the game world and how to interact with
+it as this might also help the problem of meaningful progression as it
+would be easier to introduce attainable goals to the player this way.
 
 ### Recommendations
 
@@ -98,13 +104,16 @@ My recommendations based on the results of the data that I
 gathered are:
 - Change the UI to make it more coherent.
 - Change the way the levels progress to give a better sense of progression.
-- Increase the number of music tracks to make them feel more relevant to the users actions.
+- Increase the number of music tracks to make them feel more relevant to the user's actions.
+- Introduce a natural way to feed the player instructions and tutorials.
 
 ### To Conclude
 
-While a lot of people liked --- a lot of people thought that --- 
-was not that good and could be improved
+While a lot of people liked the combat system, the character designs and the gun system a 
+lot of people thought that the UI was very confusing, and the main goal of the game was not
+completely clear and could be vastly improved upon. The game could also potentially benefit
+from a larger variety of music and story elements.
 
 ```
-Written by: Nathan-David Coplestone Last Updated: 18/03/2019
+Written by: Nathan-David Coplestone Last Updated: 19/03/2019
 ```
