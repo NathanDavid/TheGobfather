@@ -63,7 +63,7 @@ picture of how to change the game for the better.
 
 ### Results
 
-Looking at the results from the anonymous servey a few interesting 
+Looking at the results from the anonymous survey a few interesting 
 points were raised, one being about the users understanding of the
 user interface and how it wasn't the easiest to figure out the 
 information it was trying to convey.
@@ -71,19 +71,26 @@ information it was trying to convey.
 As the graph above shows the highest number given was a 3 with the
 majority of the answers being either a 1 or a 2. This gives a clear
 message that changes need to be made to the design of the UI to make
-it easier to understand.
+it easier to understand. One way to achieve this would be to give
+visible names to the different status bars on screen.
 
-Another
-
+Another point that I felt needed looking at is the how the player feels
+when progressing through the different levels of the game but as the graph
+below shows not all of the players were satisfied with how the progression
+of the levels in the game is handled. One way to remedy this is to stucture
+the game to have more focused goals for the player to try and achieve.
 ![Data_2](data2.png)
 
-m
-
-A third
-
+A third point that stood out to me is the fact that some of the players
+felt that the music that they heard from the game wasnt always relevent
+to their current possition as the graph below shows, this could possibly
+be fixed by adding more tracks to the game to change dynamically when the
+player enters different scenarios.
 ![Data_3](data3.png)
 
-m
+When looking at the answers given to me by my course mates one of the 
+most popular catagories that was critiqued was the lack of instuction
+and the confusing elements of the UI.
 
 ### Recommendations
 
