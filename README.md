@@ -74,11 +74,15 @@ message that changes need to be made to the design of the UI to make
 it easier to understand.
 
 Another
+
 ![Data_2](data2.png)
+
 m
 
 A third
+
 ![Data_3](data3.png)
+
 m
 
 ### Recommendations
